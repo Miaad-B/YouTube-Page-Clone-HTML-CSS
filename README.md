@@ -30,7 +30,7 @@ This project was built **step by step following the instructor’s guidance**. I
 ## How to View
 
 1. Clone or download the repository.  
-2. Open `youtube-clone.html` in your browser.
+2. Open `index.html` in your browser.
 
 ## Credits
 
